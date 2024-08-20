@@ -1,5 +1,5 @@
 $.ajax({
-    url: 'https://example.com/api/data', // URL که به آن درخواست ارسال می‌شود
+    url: 'https://example.com/api/getData.php', // URL که به آن درخواست ارسال می‌شود
     type: 'POST', // نوع درخواست (GET, POST, PUT, DELETE, etc.)
     dataType: 'json', // نوع داده‌ای که از سرور انتظار دارید (json, xml, html, script, text)
     data: { // داده‌هایی که به سرور ارسال می‌شود
